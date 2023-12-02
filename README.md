@@ -26,10 +26,10 @@ The project utilizes a deep learning model, often constructed using convolutiona
 ## Dependencies
 
 - Python 3.x
-- TensorFlow or PyTorch (choose one as per your preference)
+- TensorFlow
 - NumPy
 - Matplotlib (for visualizations)
-- (Include any other specific libraries or packages used)
+- Sklearn
 
 ## Usage
 
