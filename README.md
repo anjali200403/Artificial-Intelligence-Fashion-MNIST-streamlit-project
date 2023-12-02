@@ -33,7 +33,7 @@ The project utilizes a deep learning model, often constructed using convolutiona
 
 ## Usage
 
-1. **Dataset Acquisition**: The Fashion MNIST dataset can be obtained through various libraries like TensorFlow or PyTorch or directly from repositories like GitHub.
+1. **Dataset Acquisition**: The Fashion MNIST dataset can be obtained through various libraries like TensorFlow.
 2. **Data Preprocessing**: Perform necessary data preprocessing steps such as normalization, reshaping, and splitting into training and testing sets.
 3. **Model Training**: Train the chosen deep learning model on the preprocessed dataset.
 4. **Evaluation**: Evaluate the model's performance using metrics like accuracy, precision, recall, and confusion matrix.
